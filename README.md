@@ -6,4 +6,6 @@ Implementation with `uv`
 
 **Author:** Nicole Bryant
 
-[**Theory**](./docs/theory.md)
+## Content
+ - [**Theory**](./docs/theory.md)
+ - [**SetUp**](./docs/setup.md)
