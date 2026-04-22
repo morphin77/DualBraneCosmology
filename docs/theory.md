@@ -124,7 +124,7 @@ References will include works on brane cosmology, quantum field theory, dark mat
 
 Let the physical brane wave field be:
 ```
-P(x, t) = Ap * \sin(kx − \omegap t)
+$P(x, t) = Ap * \sin(kx − \omegap t)$
 ```
 
 
