@@ -123,53 +123,41 @@ References will include works on brane cosmology, quantum field theory, dark mat
 **1. Field Definitions**
 
 Let the physical brane wave field be:
-```
-$P(x, t) = Ap * \sin(kx − \omegap t)$
-```
 
+$$P\left(x, t\right) = Ap * \sin\left(kx − \omega p \space t\right)$$
 
 Let the dark brane wave field be:
+$$D\left(x, t\right) = Ad * \sin\left(kx − \omega d \space t + \phi\right)$$
 
-Dark field:
-
-D(x, t) = Ad * sin(kx − ωd t + φ)
-
-Where:
-
-Ap, Ad = amplitudes
-
-k = wave vector
-
-ωp, ωd = angular frequencies
-
-φ = phase offset between branes
+**Where:**
+ - $Ap, Ad$ is amplitudes
+ - $k$ is a wave vector
+ - $\omega p, \omega d$ is angular frequencies
+ - $\phi$  is a phase offset between branes
 
 The observable composite field is defined as:
+$$
+U\left(x, t\right) = P\left(x, t\right) + g * D\left(x, t\right)
+$$
+**Where** 
+ - $g$ is the inter-brane coupling coefficient.
 
-Composite field:
-
-U(x, t) = P(x, t) + g * D(x, t)
-
-Where g is the inter-brane coupling coefficient.
-
-4. Resonance Cosmogenesis Mechanism
+**2. Resonance Cosmogenesis Mechanism**
 
 Resonance occurs when frequency matching approaches synchronization:
-
-Resonance condition:
-
-|ωp − ωd| → 0
-
+$$
+\left|\omega p − \omega d\right| → 0
+$$
 Energy amplification function:
-
-A(t) = 1 / (|ωp − ωd| + ε)
-
+$$
+A\left(t\right) = 1 / \left(\left|\omega p − \omega d\right| + \epsilon \right)
+$$
 At resonance, energy density spikes:
 
-Energy density at ignition:
-
-ρ_res ≈ (Ap² + Ad²) * A(t)
-
+**Energy density at ignition:**\
+$$
+\rho\_res \approx \left(Ap^2 + Ad^2\right) \times A(t)
+$$
 This event generates rapid spacetime expansion and particle formation.
 
 Thus the Big Bang is reinterpreted as a resonance ignition event rather than a singularity.
