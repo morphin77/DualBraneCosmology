@@ -1,4 +1,5 @@
 [<- back](../README.md)
+***
 
 # Setup
 
