@@ -118,39 +118,15 @@ Dual-Brane Cosmogenesis offers a unified resonance-based model for the origin an
 
 References will include works on brane cosmology, quantum field theory, dark matter models, wave mechanics, and cosmological expansion data.
 
-Dual-Brane Cosmogenesis: A Resonance-Coupled Two-Brane Model for the Origin, Structure, Gravity, and Expansion of the Universe
+# Math
 
-Author: Nicole Bryant
-
-Abstract
-
-This paper introduces a cosmological framework in which the universe arises from the interaction of two coexisting phase-offset branes: a physical brane containing observable matter and energy, and a dark brane containing dark matter, dark energy, and latent informational structure. Cosmogenesis is modeled as a resonance synchronization event rather than a singular explosion. Gravity emerges from inter-brane tension, dark matter from mass anchored to the dark brane, and dark energy from time-dependent phase drift between branes. A coupled wave-field formalism is developed, producing testable predictions in gravitational lensing, cosmic expansion rates, and quantum coherence. Extensions to informational and consciousness-related processes are presented as speculative but physically constrained.
-
-Introduction
-
-Current cosmological models rely on singularity-based Big Bang theory, dark matter particle hypotheses, and vacuum energy explanations. Persistent problems include the cosmological constant discrepancy, dark matter non-detection, horizon homogeneity, and quantum gravity incompatibility. This paper proposes a two-brane resonance-coupled origin model in which cosmic evolution arises from wave-field phase interactions rather than a singular spacetime origin.
-
-2. Fundamental Postulates
-
-The universe consists of two overlapping brane-fields occupying the same spacetime domain.
-
-Each brane supports an independent energy-matter wave field.
-
-The branes are offset in phase rather than separated spatially.
-
-Observable baryonic matter exists primarily on the physical brane.
-
-Dark matter and dark energy arise primarily from the dark brane.
-
-Interactions occur through resonance coupling governed by a coupling constant g.
-
-3. Field Definitions
+**1. Field Definitions**
 
 Let the physical brane wave field be:
+```
+P(x, t) = Ap * \sin(kx − \omegap t)
+```
 
-Physical field:
-
-P(x, t) = Ap * sin(kx − ωp t)
 
 Let the dark brane wave field be:
 
